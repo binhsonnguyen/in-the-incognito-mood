@@ -18,3 +18,4 @@ Install
 
 ### Automatically
 
+Add this theme to Chrome by [this link](https://chrome.google.com/webstore/detail/in-the-incognito-mood/gffbagpbdgamniidfdgdekbcemfamheb)
