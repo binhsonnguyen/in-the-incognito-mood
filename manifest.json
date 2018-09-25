@@ -4,8 +4,9 @@
   "name": "In the Incognito Mood",
   "theme": {
     "colors": {
-      "frame": [40, 43, 45],
+      "frame": [14, 16, 18],
       "frame_inactive": [30, 30, 30],
+      "background_tab_inactive": [40, 40, 40],
       "toolbar": [80, 80, 80],
       "bookmark_text": [255, 255, 255],
       "tab_background_text": [255, 255, 255],
@@ -24,5 +25,5 @@
     }
   },
   "update_url": "https://clients2.google.com/service/update2/crx",
-  "version": "1.0"
+  "version": "1.2"
 }
